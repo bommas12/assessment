@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.nav-bar{
+  display: flex;
+  border-bottom:1px solid black;
+  margin-top: 3vh;
+
+}
+
+.tab-section{
+  border: 1px solid black;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.selected{
+  color:white;
+  background-color: black;
+}

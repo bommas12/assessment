@@ -1,0 +1,12 @@
+.todo-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.completed{
+    background: green;
+}
+.pending{
+    background: yellow;
+}
